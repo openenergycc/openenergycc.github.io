@@ -14,4 +14,4 @@ Libre Solar is a Founding Member of the Open Energy Access Alliance, officially 
 1. Cloud Solar Charge Controller
 -->
 
-For further information on Libre Solar please [visit their website](https://libre.solar).
+For further information on Libre Solar please [visit their website](https://libre.solar) or follow on Twitter [@LibreSolar](https://twitter.com/LibreSolar).
