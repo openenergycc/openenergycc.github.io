@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Open Source Energy Alliance"
+title                    : "Open Energy Access Alliance"
 title_separator          : "-"
-name                     : "Open Source Energy Alliance"
+name                     : "Open Energy Access Alliance"
 description              : ""
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
